@@ -1,11 +1,5 @@
 # Esquema de Interacción
 
-## App del Evento
-- Perfil del asistente
-- Contador de puntos
-- Calendario de eventos
-- Seguimiento de concursos y sorteos
-- Comunidad
 
 ## In-site
 - Rondas de preguntas
