@@ -3,7 +3,7 @@
   Los DevDays cuentan con cinco tipos de formatos posibles para los eventos:
 
 
-> :book: - **Charlas / Ponencia**
+> :studio_microphone: - **Charlas / Ponencia**
   > Uno o varios ponentes, se adueñaran del escenario del salón de actos y hablarán frente a la comunidad de sus proyectos, experiencias, reflexiones o conocimentos.
 
 > :boom: - **Mesas Redondas / Debates**
