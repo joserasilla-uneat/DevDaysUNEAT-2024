@@ -6,6 +6,8 @@
 
 :studio_microphone: Ponencia - Desarrollo Internacional - Fredy Diaz
 
-:computer: Taller - FlutterFlow - Jose Manuel Rasilla - Diego García
+:computer: Taller - FlutterFlow - Jose Manuel Rasilla & Diego García
 
 :studio_microphone: Ponencia - Innovación - TIM 
+
+:studio_microphone: Ponencia - Repo it and repeat - Dr. Manuel Masías 
