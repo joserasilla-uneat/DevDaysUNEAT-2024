@@ -4,6 +4,8 @@
 
 :memo: Sesiones Formativas - Patrones - Dr. Luis Fernández
 
+:boom: Mesa Redonda - A-GILISMO
+
 :studio_microphone: Ponencia - Desarrollo Internacional - Fredy Diaz
 
 :computer: Taller - FlutterFlow - Jose Manuel Rasilla & Diego García
