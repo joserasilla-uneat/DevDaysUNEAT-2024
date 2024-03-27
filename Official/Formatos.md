@@ -1,4 +1,4 @@
-# EVENTOS
+# FORMATOS
 
   El formato de los DevDays cuenta con cinco tipos de eventos posibles:
 
