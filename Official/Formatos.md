@@ -1,6 +1,6 @@
 # FORMATOS
 
-  El formato de los DevDays cuenta con cinco tipos de eventos posibles:
+  Los DevDays cuentan con cinco tipos de formatos posibles para los eventos:
 
 
 > :book: - **Charlas / Ponencia**
