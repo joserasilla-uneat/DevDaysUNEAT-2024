@@ -15,3 +15,5 @@
 :studio_microphone: Ponencia - Repo it and repeat - Dr. Manuel Masías 
 
 :studio_microphone: Videoconferencia - Desarrollo de Software - Diego Vicuña CT Ecuador
+
+:rocket: Foro - HIAY Futuro?
