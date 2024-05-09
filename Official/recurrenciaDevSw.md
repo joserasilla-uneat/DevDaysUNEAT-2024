@@ -22,9 +22,9 @@ Este curso es esencial si estás comenzando a formarte como desarrollador, porqu
 
 - Ponente: **Luis Fernández**
 - 3 sesiones de 2 horas cada una - 16:00h a 18:00h
-  - Lunes 13
-  - Martes 14
-  - Jueves 16
+  - Lunes 13 - Aula 1.1
+  - Martes 14 - Aula -1.15
+  - Jueves 16 - Aula 1.3
 ### ¿Qué tengo que saber?
 
 Ninguno: al revés, estas sesiones deberían ser requisitos para el acceso a cualquier otro curso de desarrollo de software.
