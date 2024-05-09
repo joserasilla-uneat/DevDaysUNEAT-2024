@@ -1,19 +1,29 @@
 # Listado Provisional de Eventos
 
-:door: Apertura DevDays 2024 - Sky's the limit Dev - Jose Manuel Rasilla
+<div align=center>
 
-:memo: Sesiones Formativas - Patrones - Dr. Luis Fernández
+|-|Lunes|Martes|Miércoles|Jueves|Viernes|
+|-|:-:|:-:|:-:|:-:|:-:|
+|10:00h|-|-|-|1|-|
+|11:00h|-|-|-|-|-|
+|12:00h|-|-|-|3|-|
+|13:00h|-|-|-|-|-|
+|14:00h|-|-|-|-|-|
+|15:00h|-|-|-|-|-|
+|16:00h|2|2|-|2|-|
+|17:00h|2|2|-|2|-|
+|18:00h|-|-|-|-|-|
+|19:00h|-|-|-|-|-|
 
-:boom: Mesa Redonda - A-GILISMO
+</div>
 
-:studio_microphone: Ponencia - Desarrollo Internacional - Fredy Diaz
+## Eventos
 
-:computer: Taller - FlutterFlow - Jose Manuel Rasilla & Diego García
-
-:studio_microphone: Ponencia - Innovación - TIM 
-
-:studio_microphone: Ponencia - Repo it and repeat - Dr. Manuel Masías 
-
-:studio_microphone: Videoconferencia - Desarrollo de Software - Diego Vicuña CT Ecuador
-
-:rocket: Foro - HIAY Futuro?
+1. Apertura DevDays 2024 - Sky's the limit Dev - Jose Manuel Rasilla
+2. Sesiones formativas - [Recurrencia en el desarrollo de software: patrones, conocimiento y complejidad](recurrenciaDevSw.md) - Dr. Luis Fernández
+3. Mesa Redonda - A-*Gilismo*
+4. Ponencia - Desarrollo Internacional - Fredy Diaz
+5. Taller - FlutterFlow - Jose Manuel Rasilla & Diego García
+6. Ponencia - Innovación - TIM 
+7. Videoconferencia - Desarrollo de Software - Diego Vicuña CT Ecuador
+8. Foro - ¿H***AI*** futuro?
