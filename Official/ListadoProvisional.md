@@ -9,8 +9,8 @@
 |12:00h|-|-|-|3|8|
 |13:00h|-|-|-|7|4|
 |14:00h|-|-|-|-|-|
-|15:00h|-|-|-|-|-|
-|16:00h|2|2|-|2|5|
+|15:00h|-|-|-|-|9|
+|16:00h|2|2|-|2|-|
 |17:00h|2|2|-|2|5|
 |18:00h|-|-|-|-|-|
 |19:00h|-|-|-|-|-|
@@ -27,3 +27,4 @@
 6. Ponencia - Innovación - TIM 
 7. Videoconferencia - Desarrollo de Software - Diego Vicuña CT Ecuador
 8. Foro - ¿H***AI*** futuro?
+9. Taller - Maura.com
