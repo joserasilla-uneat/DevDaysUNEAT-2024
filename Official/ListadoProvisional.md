@@ -6,12 +6,12 @@
 |-|:-:|:-:|:-:|:-:|:-:|
 |10:00h|-|-|-|1|-|
 |11:00h|-|-|-|-|-|
-|12:00h|-|-|-|3|-|
-|13:00h|-|-|-|-|-|
+|12:00h|-|-|-|3|8|
+|13:00h|-|-|-|7|4|
 |14:00h|-|-|-|-|-|
 |15:00h|-|-|-|-|-|
-|16:00h|2|2|-|2|-|
-|17:00h|2|2|-|2|-|
+|16:00h|2|2|-|2|5|
+|17:00h|2|2|-|2|5|
 |18:00h|-|-|-|-|-|
 |19:00h|-|-|-|-|-|
 
@@ -22,7 +22,7 @@
 1. Apertura DevDays 2024 - Sky's the limit Dev - Jose Manuel Rasilla
 2. Sesiones formativas - [Recurrencia en el desarrollo de software: patrones, conocimiento y complejidad](recurrenciaDevSw.md) - Dr. Luis Fernández
 3. Mesa Redonda - A-*Gilismo*
-4. Ponencia - Desarrollo Internacional - Fredy Diaz
+4. Videoconferencia - Desarrollo Internacional - Fredy Diaz
 5. Taller - FlutterFlow - Jose Manuel Rasilla & Diego García
 6. Ponencia - Innovación - TIM 
 7. Videoconferencia - Desarrollo de Software - Diego Vicuña CT Ecuador
