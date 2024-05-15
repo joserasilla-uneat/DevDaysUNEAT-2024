@@ -5,7 +5,7 @@
 |-|Lunes|Martes|Miércoles|Jueves|Viernes|
 |-|:-:|:-:|:-:|:-:|:-:|
 |10:00h|-|-|-|1|6|
-|11:00h|-|-|-|-|6|
+|11:00h|-|-|-|3|6|
 |12:00h|-|-|-|3|8|
 |13:00h|-|-|-|7|4|
 |14:00h|-|-|-|-|-|
@@ -21,7 +21,7 @@
 
 1. Apertura DevDays 2024 - Sky's the limit Dev - Jose Manuel Rasilla
 2. Sesiones formativas - [Recurrencia en el desarrollo de software: patrones, conocimiento y complejidad](recurrenciaDevSw.md) - Dr. Luis Fernández
-3. Mesa Redonda - A-*Gilismo*
+3. Pequeñas anecdotas sobre A-*Gilismo*
 4. Videoconferencia - Desarrollo Internacional - Fredy Diaz
 5. Taller - FlutterFlow - Jose Manuel Rasilla & Diego García
 6. Ponencia - Innovación - TIM 
